@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, World! 👋
+
+This is the GitHub account I'll be using for my studies at Hochschule Campus Wien!
 
 <!--
 **OktalonSzoradi/OktalonSzoradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
