@@ -1,5 +1,7 @@
 ## Hello, World! 👋
 
+I'm Oktalon! You can call me Talon if you'd like.
+
 This is the GitHub account I'll be using for my studies at Hochschule Campus Wien!
 
 <!--
